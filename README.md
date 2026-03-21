@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [3643-flip-square-submatrix-vertically](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+## Matrix
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
