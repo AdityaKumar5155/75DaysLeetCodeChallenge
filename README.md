@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [3546-equal-sum-grid-partition-i](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -41,5 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/AdityaKumar5155/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
