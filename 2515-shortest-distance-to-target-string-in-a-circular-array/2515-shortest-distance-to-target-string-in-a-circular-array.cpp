@@ -1,15 +1,12 @@
 class Solution {
 public:
     int closestTarget(vector<string>& words, string target, int startIndex) {
-        int ans = INT_MAX;
         int n = words.size();
-        for (int i = 0; i < n; i++){
-            if (target == words[i]){
-                int dist = abs(startIndex-i);
-                ans = min(ans, min(dist, n-dist));
+        for (int i = 0; i <= n/2; i++){
+            if (words[(startIndex+i)%n] == target || words[(n+startIndex-i)%n] == target){
+                return i;
             }
         }
-        if (ans == INT_MAX) return -1;
-        return ans;
+        return -1;
     }
 };
