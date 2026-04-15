@@ -1,8 +1,4 @@
 class Solution {
-    int calcMinDistance(int length, int from, int to){
-        int dist = abs(from-to);
-        return min(dist, length-dist);
-    }
 public:
     int closestTarget(vector<string>& words, string target, int startIndex) {
         int ans = INT_MAX;
